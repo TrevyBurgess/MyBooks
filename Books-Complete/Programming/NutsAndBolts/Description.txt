@@ -1,4 +1,16 @@
-Book on software engineering principles. This includes design patterns such as
 
 
 
+
+The world is changing at an ever increasing pace. The technologies that we had mastered yesterday are no longer relevant today.
+
+On a larger scale, one day people will realize that the universe is fundamentally an informational system and  not actually physical.
+
+At that point the various engineering disciplines will be seen for what they are – as various branches of information technology. Even now engineers are more informational technology professionals than nuts-and-bolts people.
+
+The purpose of this book is to present the Nuts and bolts (Design patterns) needed to create a solution that can blow the socks of any customer.
+ 
+In the book we will focus on: 
+1. Project Management – Bringing together the components needed to enable a team that can deliver satisfaction to the customer.
+2. Feature Management – How to track feature requirements, so we can, with (relative) certainty, deliver a product that supplies the needs of our customers.
+3. Feature development – How to take defined   requirements and turn them into features that serve the needs of our customer.
